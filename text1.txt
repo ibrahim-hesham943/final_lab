@@ -3,3 +3,4 @@ owner branch first entry
 contributer first entry after merge
 rebase branch 1 first entry 
 a
+b
